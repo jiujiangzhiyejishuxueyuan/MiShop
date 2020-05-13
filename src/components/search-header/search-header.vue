@@ -30,6 +30,9 @@
                     this.$router.push(`/search/list/${key}`)
                 }
             }
+        },
+        created() {
+            this.searchKey = this.$route.params.key
         }
     }
 </script>

@@ -101,7 +101,7 @@
         .app-search
             background #FAFAFA
         #page-box
-            padding-top 85px
+            padding-top 48px
     .app-goods-list
         .item-box
             border-bottom 1px solid rgba(0,0,0,.15)
