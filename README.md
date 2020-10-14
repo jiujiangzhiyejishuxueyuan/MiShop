@@ -8,6 +8,14 @@
 
 ###### --此项目需先运行后端项目才能正常使用
 
+### 技术栈
+- MVVM框架：Vue.js (2.x)
+- 组件库：vant
+- 前端路由：Vue Router
+- 数据获取：axios
+- 构建工具：webpack
+- css预编译：stylus
+
 ##### 依赖
 ```
 npm install
