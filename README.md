@@ -6,7 +6,7 @@
 
 ###### 项目预览地址http://mall.pengwenli.top
 
-###### --本地运行此项目需先运行后端项目才能正常使用
+###### --本地运行此项目需先运行后端项目才能正常使用，地址https://github.com/jiujiangzhiyejishuxueyuan/MiShopServer
 
 ### 技术栈
 - MVVM框架：Vue.js (2.x)
