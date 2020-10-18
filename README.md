@@ -26,3 +26,7 @@ npm install
 npm run serve
 
 ```
+### 项目打包
+```
+npm run build
+```
